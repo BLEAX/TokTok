@@ -1,0 +1,18 @@
+{
+  "name": "project_3team",
+  "version": "1.0.0",
+  "description": "100일 프젝 3팀",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "firebase": "^10.8.1",
+    "firebaseui": "^6.1.0",
+    "gh-pages": "^6.1.1",
+    "sanitize-html": "^2.12.1"
+  }
+}
